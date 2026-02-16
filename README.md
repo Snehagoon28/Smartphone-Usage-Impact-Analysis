@@ -26,3 +26,4 @@ Explanation of the OutputWhen you run the code in VS Code, you will see two type
 
 Conclusion -
 "My project takes 50,000 user records and cleans them using a professional ETL pipeline. I used Advanced Feature Engineering to create a 'Digital Strain Index.' I then generated 8 high-density visualizations to prove that sleep and screen time are the biggest drivers of stress. Finally, I trained a Random Forest AI model that can predict a person's stress level based on their smartphone habits with high mathematical accuracy."
+
