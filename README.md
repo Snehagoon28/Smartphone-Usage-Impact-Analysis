@@ -19,10 +19,10 @@ Detailed Explanation of VisualizationsThe code generates 8+ "technically strong"
 7. Joint Plot (Caffeine vs. Productivity):What it shows: A scatter plot in the middle with histograms on the top and right sides.Why it’s used: It shows the relationship between two variables and the distribution of each variable individually, all in one view.
 8. Line Plot (Age vs. App Usage):What it shows: A continuous line tracking how app count changes as users get older.Why it’s used: To identify "Digital Life Stages"—checking if younger users are more "app-heavy" than older professionals.
 
-Explanation of the OutputWhen you run the code in VS Code, you will see two types of output:Terminal Output 
+Explanation of the OutputWhen you run the code in VS Code, you will see two types of output -
 1. Data Integrity: Confirmation that 50,000 rows were processed.Statistical Report: A table showing which occupation (e.g., Student) is the most stressed.
 2. ML Accuracy: An $R^2$ score (Coefficient of Determination). An $R^2$ closer to $1.0$ means the AI is very accurate at predicting stress.Pop-up Windows
 3. (Visuals):You will see the 8 charts discussed above. These are the visual "proof" of your analysis.
 
-Summary for Presentation -
+Conclusion -
 "My project takes 50,000 user records and cleans them using a professional ETL pipeline. I used Advanced Feature Engineering to create a 'Digital Strain Index.' I then generated 8 high-density visualizations to prove that sleep and screen time are the biggest drivers of stress. Finally, I trained a Random Forest AI model that can predict a person's stress level based on their smartphone habits with high mathematical accuracy."
